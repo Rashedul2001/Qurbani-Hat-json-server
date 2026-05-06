@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  },
+  "name": "qurbani-hat-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rashedul2001/Qurbani-Hat-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rashedul2001/Qurbani-Hat-json-server/issues"
+  },
+  "homepage": "https://github.com/Rashedul2001/Qurbani-Hat-json-server#readme"
+}
